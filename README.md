@@ -1,6 +1,5 @@
-# util_develop
-Esse repositório possui as listas dos principais comandos das mais viriadas tecnologias utilizadas no desenvolvimento de aplicativos.
-
+# Useful for developers
+Esse repositório possui as listas de feramentas, informações e comandos úteis para desenvolvedores.
 
 ## Links útils
 * [Combinação de cores](https://coolors.co/app)
