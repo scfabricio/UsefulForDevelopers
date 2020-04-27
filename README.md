@@ -11,3 +11,4 @@ Esse repositório possui as listas de feramentas, informações e comandos útei
 * [Para gravar tela](https://www.loom.com/)
 * [Ide online](https://ideone.com/PsuCmd)
 * [Biblioteca de imagens](https://unsplash.com/)
+* [Framework de Testes em JavaScript](https://jestjs.io/pt-BR/)
