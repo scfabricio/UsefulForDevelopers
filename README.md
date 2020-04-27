@@ -9,3 +9,5 @@ Esse repositório possui as listas de feramentas, informações e comandos útei
 
 * [Quadros colaborativos para reunir equipes online](https://miro.com)
 * [Para gravar tela](https://www.loom.com/)
+* [Ide online](https://ideone.com/PsuCmd)
+* [Biblioteca de imagens](https://unsplash.com/)
