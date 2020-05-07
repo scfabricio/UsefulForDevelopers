@@ -12,3 +12,4 @@ Esse repositório possui as listas de feramentas, informações e comandos útei
 * [Ide online](https://ideone.com/PsuCmd)
 * [Biblioteca de imagens](https://unsplash.com/)
 * [Framework de Testes em JavaScript](https://jestjs.io/pt-BR/)
+* [Deploi de aplicações (Surge)](http://surge.sh/)
