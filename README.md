@@ -14,5 +14,5 @@ Esse repositório possui as listas de feramentas, informações e comandos útei
 * [Framework de Testes em JavaScript](https://jestjs.io/pt-BR/)
 * [Deploi de aplicações (Surge)](http://surge.sh/)
 * [Ideias de Apps](https://github.com/florinpop17/app-ideas)
-* [Modelos de Interfaces](https://dribbble.com/shots/2855219-Tribbble-Tinder-for-Dribbble)
+* [Modelos de Interfaces](https://dribbble.com/)
 * [Repositório de projetos Figma](https://www.figmaresources.com/)
