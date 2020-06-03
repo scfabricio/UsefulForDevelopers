@@ -16,3 +16,4 @@ Esse repositório possui as listas de feramentas, informações e comandos útei
 * [Ideias de Apps](https://github.com/florinpop17/app-ideas)
 * [Modelos de Interfaces](https://dribbble.com/)
 * [Repositório de projetos Figma](https://www.figmaresources.com/)
+* [Pure CSS Loaders](https://loading.io/css/)
