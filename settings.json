@@ -1,34 +1,36 @@
 {
-    // Define o tema do VSCode
-    "workbench.colorTheme":"Dracula",
-  
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+
     // Configura tamanho e família da fonte
-    "editor.fontSize":16,
-    "editor.lineHeight":24,
     "editor.fontFamily":"Fira Code",
     "editor.fontLigatures":true,
-  
+
     // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
     "editor.rulers": [
-      80,
-      120
+        80,
+        120
     ],
-  
+
+    // Mapeamento de icones do material-icon
+    "material-icon-theme.folders.associations": {
+        "migrations": "tools",
+        "modules": "components",
+        "fakes": "mock",
+        "websockets": "pipe"
+    },
+
     // Aplica um sinal visual na esquerda da linha selecionada
     "editor.renderLineHighlight":"gutter",
-  
-    // Aumenta a fonte do terminal
-    "terminal.integrated.fontSize":14,
-  
-    // Define o tema dos ícones na sidebar
-    "workbench.iconTheme": "material-icon-theme",
+
     "editor.tabSize": 2,
 
     // Serve para habilitar algumas funções de autocompletar códigos
     "emmet.syntaxProfiles": {
-      "javascript": "jsx",
+        "javascript": "jsx",
     },
     "emmet.includeLanguages": {
-      "javascript": "javascriptreact",
-    }
-  }
+        "javascript": "javascriptreact",
+    },
+    "markdown-pdf.displayHeaderFooter": false,
+}
