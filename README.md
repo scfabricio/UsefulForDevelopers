@@ -17,3 +17,5 @@ Esse repositório possui as listas de feramentas, informações e comandos útei
 * [Modelos de Interfaces](https://dribbble.com/)
 * [Repositório de projetos Figma](https://www.figmaresources.com/)
 * [Pure CSS Loaders](https://loading.io/css/)
+
+* [Dicas para integrar o React com TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
