@@ -14,8 +14,14 @@ Esse repositório possui as listas de feramentas, informações e comandos útei
 * [Framework de Testes em JavaScript](https://jestjs.io/pt-BR/)
 * [Deploi de aplicações (Surge)](http://surge.sh/)
 * [Ideias de Apps](https://github.com/florinpop17/app-ideas)
-* [Modelos de Interfaces](https://dribbble.com/)
-* [Repositório de projetos Figma](https://www.figmaresources.com/)
 * [Pure CSS Loaders](https://loading.io/css/)
 
 * [Dicas para integrar o React com TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+
+## Inspirações para Layouts
+* [Freepik](https://br.freepik.com/) - Ideal para banners
+* [Modelos de Interfaces](https://dribbble.com/)
+* [Repositório de projetos Figma](https://www.figmaresources.com/)
+* [Behance](https://www.behance.net/) - Portifolio de projetos de designers
+* [Envato](https://elements.envato.com/) - Venda de themas para sites, aplicativos e muito mias
+* [Pinterest](https://br.pinterest.com/)
