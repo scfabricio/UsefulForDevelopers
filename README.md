@@ -27,5 +27,5 @@ Esse repositório possui as listas de feramentas, informações e comandos útei
 * [Pinterest](https://br.pinterest.com/)
 
 ## Observações
-* ```openssl rand -base64 32```
-* Comando para gerar caracteres aleatório
+* ```openssl rand -base64 32``` - Comando para gerar caracteres aleatório
+  
