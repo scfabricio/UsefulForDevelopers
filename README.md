@@ -25,3 +25,7 @@ Esse repositório possui as listas de feramentas, informações e comandos útei
 * [Behance](https://www.behance.net/) - Portifolio de projetos de designers
 * [Envato](https://elements.envato.com/) - Venda de themas para sites, aplicativos e muito mias
 * [Pinterest](https://br.pinterest.com/)
+
+## Observações
+* ```openssl rand -base64 32```
+* Comando para gerar caracteres aleatório
